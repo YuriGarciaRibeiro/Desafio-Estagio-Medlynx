@@ -30,4 +30,4 @@ sudo apt install apache2
 e para iniciar a nossa aplicação depois de criados os arquivos no diretorio do LocalHost use o seguinte comando:
 ```sh
  sudo service apache2 start
-``
+```
