@@ -12,7 +12,7 @@
     </div>
     <div class="row">
         <div class="col-12">
-            <form action="index.php" method="GET">
+            <form action="../controller/ControllerRelatorioPorPeriodo.php" method="GET">
                 <div class="form-group">
                     <label for="ano my-2">Ano</label>
                     <input type="number" class="form-control my-2" name="ano" id="ano" placeholder="Ano">

@@ -1,8 +1,6 @@
 <?php 
 
     if(isset($_POST['id_pessoa']) && isset($_POST['data'])  && $_POST['id_pessoa'] != "" && $_POST['data'] != "" ){
-        
-        
 
 
 
