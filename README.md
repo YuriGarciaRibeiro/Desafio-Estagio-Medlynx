@@ -27,7 +27,7 @@ Para o linux:
 sudo apt update
 sudo apt install apache2
 ```
-e para iniciar a nossa aplicação depois de criados os arquivos no diretorio do LocalHost use o seguinte comando:
+e para iniciar a nossa aplicação, depois de criados os arquivos no diretorio do LocalHost use o seguinte comando e acesse o endereço do local host no seu navegador:
 ```sh
  sudo service apache2 start
 ```
